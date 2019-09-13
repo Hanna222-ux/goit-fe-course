@@ -1,0 +1,23 @@
+ body {
+     font-family:'Playfair Display',serif;
+     font-size: 14px;
+     color: #626262;
+     line-height: 17px;
+     }
+     
+     .feature-list{
+         list-style: none;
+     }
+     
+     .feature-list-occupation{
+      font-family:'Ubuntu',sans-serif;   
+      font-size: 14px;
+      line-height: 17px;
+      color: #c8c3b8
+     }
+
+     .features-list-name{
+      font-size: 30px;
+      line-height: 36px;
+      color:#626262
+     }
